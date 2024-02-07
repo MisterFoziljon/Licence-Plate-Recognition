@@ -18,10 +18,10 @@ pip install tensorboard
 ```
 
 ### Train:
-#### Step 1.
-```terminal
-jupyter lab
-```
-
-#### Step 2.
-    Run All Cells
+    #### Step 1.
+    ```terminal
+    jupyter lab
+    ```
+    
+    #### Step 2.
+        Run All Cells
