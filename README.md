@@ -3,7 +3,7 @@
 Ubuntu20.04
 
 ### Requirements list:
-```bash
+```cmd
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
 conda install jupyter
 pip install transformers
