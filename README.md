@@ -1,6 +1,6 @@
 # Licence-Plate-Recognition
 ### Operation System:
-Ubuntu20.04
+    Ubuntu20.04
 
 ### Requirements list:
 ```terminal
@@ -24,4 +24,4 @@ jupyter lab
 ```
 
 #### Step 2.
-Run All Cells
+    Run All Cells
