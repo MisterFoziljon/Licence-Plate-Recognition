@@ -1,4 +1,5 @@
 # Licence-Plate-Recognition
+### Operation System:
 Ubuntu20.04
 
 ### Requirements list:
