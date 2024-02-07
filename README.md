@@ -16,12 +16,3 @@ pip install matplotlib
 pip install protobuf=3.20.1
 pip install tensorboard
 ```
-
-### Train:
-    #### Step 1.
-    ```terminal
-    jupyter lab
-    ```
-    
-    #### Step 2.
-        Run All Cells
